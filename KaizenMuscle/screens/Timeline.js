@@ -4,7 +4,9 @@ import {View, Text, TextInput} from "react-native";
 const Timeline = (navigation) => {
   return(
     <View style={{flex:1, alignItems:"center",justifyContent:"center"}}>
-      <Text onPress={()=>navigation.navigation("Timeline")}>This is Timeline Page</Text>
+      <Text >This page is for sharing workout record with friends</Text>
+      <Text>Because there is not enough time to implement</Text>
+      <Text> I will make this page later</Text>
     </View>
   );
 }

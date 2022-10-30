@@ -9,7 +9,7 @@ This is the programmings which I made
 
 
 
-[Youtube Video: PackMan in PyGame](https://www.youtube.com/watch?v=ZPbfI0BpZuQ)
+[Youtube Video: I don't really recommend to use ReactNative for the reason why you used React before](https://www.youtube.com/watch?v=UgHnaSK8UfE)
 
 # Development Environment
 
@@ -19,9 +19,9 @@ This is the programmings which I made
 ### Languages
 
 * React Native
-* Game engine: PyGame
 
 # Useful Websites
 
-* [PyGame Documentation](https://www.pygame.org/docs/)
-* [Idea Example](https://itsourcecode.com/free-projects/python-projects/pacman-in-python-code/)
+* [ReactNative Documentation](https://reactnative.dev/docs/getting-started)
+* [React Native Tab](https://www.youtube.com/watch?v=AnjyzruZ36E)
+* [React Native Text Input](https://www.youtube.com/watch?v=vwEUCUzpMqo&list=PLbFIJVBw8Wwx1krPEq32_apQ6jEpFTOdG&index=16)
